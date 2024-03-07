@@ -1,13 +1,13 @@
 const CONFIG = {
     titleWeb: "Gửi người tôi yêu",
-    introTitle: 'Giang',
+    introTitle: 'Oăn',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Làm người yêu anh nha 🥰',
-    desc: 'I love you ',
+    title: 'Ngày mai đi ăn mì với mik nha 🥰',
+    desc: 'my crush',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100053152872372/
+    messLink: 'https://github.com/zukahai/Confess-Crush' //https://www.facebook.com/messages/t/100024203171900/
 }
